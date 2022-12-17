@@ -3,4 +3,4 @@ silabus rekayasa perangkat lunak kelas 5:
 - framework bootstrab
 - framework codeigniter
 - DBMS Mysql
-- aplikasi sosial media kelas 5
+- website
