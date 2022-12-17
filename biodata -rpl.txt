@@ -1,0 +1,4 @@
+biodata mahasiswa
+- nama    : rezatul akma
+- npm     : 17105111003
+- alamat  : sigli
