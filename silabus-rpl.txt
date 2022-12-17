@@ -1,5 +1,6 @@
 silabus rekayasa perangkat lunak kelas 5:
--git dan github
--framework bootstrab
--framework codeigniter
--DBMS Mysql
+- git dan github
+- framework bootstrab
+- framework codeigniter
+- DBMS Mysql
+- aplikasi sosial media kelas 5
